@@ -1,7 +1,4 @@
 I think git is very powerful.
 Rule 1
-<<<<<<< .merge_file_a13616
-This defines the handling of the file while working on the requirement...
-=======
-This defines the handling of the file while working on the requirements.
->>>>>>> .merge_file_a13076
+This defines the handling of the file while working on the requirements...
+
