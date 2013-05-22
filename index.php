@@ -4,7 +4,7 @@
 
 <?php
 
-echo "my first PHP script! And now testing git";
+echo "my First PHP script! And now testing git";
 
 ?>
 
